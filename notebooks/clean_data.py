@@ -1,16 +1,6 @@
 import pandas as pd
 
 def limpiar_datos(file_path):
-    """
-    Realiza la limpieza del dataset de aeropuertos.
-    
-    Pasos:
-    1. Elimina espacios en nombres de columnas.
-    2. Convierte la columna 'Passengers' a tipo numérico.
-    3. Elimina duplicados.
-    4. Maneja valores nulos.
-    5. Normaliza el texto en columnas categóricas.
-    """
     
     # 🔹 Carga del dataset
     df = pd.read_csv(file_path)
