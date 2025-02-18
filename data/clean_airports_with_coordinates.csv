@@ -1,0 +1,101 @@
+﻿Rank,Airport,Code,Location,Country,Passengers,Latitude,Longitude
+1,Hartsfield-Jackson Atlanta International Airport,ATL,Atlanta,United States,103902992,33.63740085,-84.42981607
+2,Beijing Capital International Airport,PEK,Beijing,China,95786442,40.07915555,116.5942602
+3,Dubai International Airport,DXB,Dubai,United Arab Emirates,88242099,25.2526713,55.36527556
+4,Los Angeles International Airport,LAX,Los Angeles,United States,84557968,33.94216755,-118.4213591
+5,O'Hare International Airport,ORD,Chicago,United States,79828183,41.9782523,-87.90923553
+6,Heathrow Airport,LHR,London,United Kingdom,78014598,51.4697822,-0.453525382
+7,Haneda Airport,HND,Tokyo,Japan,76476251,35.5456924,139.7760994
+8,Hong Kong International Airport,HKG,Hong Kong,Hong Kong,72665078,22.3125986,113.9172999
+9,Shanghai Pudong International Airport,PVG,Shanghai,China,70001237,31.1427359,121.8041131
+10,Charles De Gaulle International Airport,CDG,Paris,France,69471442,49.012779,2.55
+11,Amsterdam Airport Schiphol,AMS,Amsterdam,Netherlands,68515425,52.308613,4.763889
+12,Dallas-Fort Worth International Airport,DFW,Dallas,United States,67092194,32.89651945,-97.038056
+13,Guangzhou Baiyun International Airport,CAN,Guangzhou,China,65887473,23.392117,113.2966175
+14,Frankfurt Am Main International Airport,FRA,Frankfurt,Germany,64500386,50.02441255,8.555200257
+15,Istanbul Atatürk Airport,IST,Istanbul,Turkey,63859785,40.9782389,28.82632081
+16,Indira Gandhi International Airport,DEL,Delhi,India,63451503,28.5551678,77.08473721
+17,Soekarno-Hatta International Airport,CGK,Jakarta,Indonesia,63015620,-6.1797874,106.7923764
+18,Singapore Changi Airport,SIN,Singapore,Singapore,62219573,1.352975,103.9960555
+19,Incheon International Airport,ICN,Seoul,South Korea,62157834,37.58505974,126.8105758
+20,Denver International Airport,DEN,Denver,United States,61379396,39.8606676,-104.6853673
+21,Suvarnabhumi Airport,BKK,Bangkok,Thailand,60860557,13.7227587,100.7272057
+22,John F. Kennedy International Airport,JFK,New York,United States,59392500,40.6429479,-73.77937337
+23,Kuala Lumpur International Airport,KUL,Kuala Lumpur,Malaysia,58558440,2.745578,101.709917
+24,San Francisco International Airport,SFO,San Francisco,United States,55822129,37.622452,-122.3839894
+25,Adolfo Suárez Madrid-Barajas Airport,MAD,Madrid,Spain,53386075,40.4952269,-3.573373303
+26,Chengdu Shuangliu International Airport,CTU,Chengdu,China,49801693,30.55477785,103.9479075
+27,McCarran International Airport,LAS,Las Vegas,United States,48566803,36.0861034,-115.1611198
+28,Barcelona-El Prat Airport,BCN,Barcelona,Spain,47262826,41.29694395,2.079047363
+29,Chhatrapati Shivaji Maharaj International Airport,BOM,Mumbai,India,47204259,19.09015275,72.86371349
+30,Toronto Pearson International Airport,YYZ,Toronto,Canada,47054696,43.6782236,-79.62880467
+31,Seattle-Tacoma International Airport,SEA,Seattle,United States,46934194,47.448889,-122.309444
+32,Charlotte Douglas International Airport,CLT,Charlotte,United States,45909899,35.21074145,-80.94574352
+33,Gatwick Airport,LGW,London,United Kingdom,45561694,51.1541082,-0.18231165
+34,Shenzhen Bao'an International Airport,SZX,Shenzhen,China,45558409,22.6376434,113.8060769
+35,Taiwan Taoyuan International Airport,TPE,Taipei,Taiwan,44878703,25.077731,121.232822
+36,Mexico City International Airport,MEX,Mexico City,Mexico,44732418,19.4358083,-99.0712891
+37,Kunming Changshui International Airport,KMG,Kunming,China,44729736,25.10710645,102.9384135
+38,Munich Airport,MUC,Munich,Germany,44577241,48.353783,11.786086
+39,Orlando International Airport,MCO,Orlando,United States,44511265,28.41290355,-81.3094431
+40,Miami International Airport,MIA,Miami,United States,44071313,25.7949789,-80.28672341
+41,Phoenix Sky Harbor International Airport,PHX,Phoenix,United States,43921670,33.43284865,-112.0067915
+42,Sydney Airport,SYD,Sydney,Australia,43410355,-33.9498935,151.1819682
+43,Newark Liberty International Airport,EWR,Newark,United States,43393499,40.7094046,-74.17233245
+44,Ninoy Aquino International Airport,MNL,Manila,Philippines,42022484,14.5123016,121.0218861
+45,Shanghai Hongqiao International Airport,SHA,Shanghai,China,41884059,31.19767765,121.3344831
+46,Xi'an Xianyang International Airport,XIY,Xi'An,China,41857406,34.447119,108.751592
+47,Leonardo Da Vinci‚ÄìFiumicino Airport,FCO,Rome,Italy,40968756,34.447119,12.22648477
+48,George Bush Intercontinental Airport,IAH,Houston,United States,40696189,29.9841416,-95.33298596
+49,Narita International Airport,NRT,Tokyo,Japan,40631193,35.764722,140.386389
+50,Sheremetyevo International Airport,SVO,Moscow,Russia,40092806,55.97608755,37.42380082
+51,Chongqing Jiangbei International Airport,CKG,Chongqing,China,38715210,29.72672835,106.6521085
+52,Don Mueang International Airport,DMK,Bangkok,Thailand,38299757,13.9122207,100.6035314
+53,St. Paul International Airport,MSP,Minneapolis,United States,38034341,44.87801905,-93.22092805
+54,São Paulo/Guarulhos International Airport,GRU,Sao Paulo,Brazil,37774000,-23.437859,-46.48055623
+55,Logan International Airport,BOS,Boston,United States,36288042,42.36317665,-71.01364006
+56,Tan Son Nhat International Airport,SGN,Ho Chi Minh City,Vietnam,35900000,10.81887385,106.6588771
+57,Hamad International Airport,DOH,Doha,Qatar,35867252,25.2748602,51.61245118
+58,Hangzhou Xiaoshan International Airport,HGH,Hangzhou,China,35570411,30.2368729,120.4291244
+59,Detroit Metropolitan Wayne County Airport,DTW,Detroit,United States,34701497,42.212444,-83.353389
+60,King Abdulaziz International Airport,JED,Jeddah,Saudi Arabia,33917282,21.6605044,-83.353389
+61,Melbourne Airport,MEL,Melbourne,Australia,33704854,-37.6667554,144.8288501
+62,Fort Lauderdale Hollywood International Airport,FLL,Fort Lauderdale,United States,32511053,26.072017,-80.15099673
+63,Orlando Executive Airport,ORL,Orlando,United States,32042475,28.54617435,-81.33163591
+64,Sabiha Gökçen International Airport,SAW,Istanbul,Turkey,31385841,40.89433405,29.31180584
+65,El Dorado International Airport,BOG,Bogota,Colombia,30989932,4.7020946,-74.1477132
+66,Moscow Domodedovo Airport,DME,Moscow,Russia,30700000,55.408611,37.906111
+67,Jeju International Airport,CJU,Cheju,South Korea,29846712,33.50707105,126.4916441
+68,LaGuardia Airport,LGA,New York,United States,29786769,40.7757145,-73.87336399
+69,Philadelphia International Airport,PHL,Philadelphia,United States,29585754,39.875018,-75.23521279
+70,Dublin Airport,DUB,Dublin,Ireland,29582321,53.42829155,-6.247274062
+71,Zurich Airport,ZRH,Zurich,Switzerland,29396094,47.46338805,8.553366081
+72,Copenhagen Airport,CPH,Copenhagen,Denmark,29177833,55.617917,12.655972
+73,Kansai International Airport,KIX,Osaka,Japan,27983093,34.43420455,12.655972
+74,Palma De Mallorca Airport,PMI,Palma De Mallorca,Spain,27970655,39.55322455,2.729030992
+75,Manchester Airport,MAN,Manchester,United Kingdom,27901708,53.35034205,-2.280369253
+76,"Oslo Airport, Gardermoen",OSL,Oslo,Norway,27482315,60.193917,11.100361
+77,Lisbon Portela Airport,LIS,Lisbon,Portugal,26669755,38.7809542,11.100361
+78,Stockholm Arlanda Airport,ARN,Stockholm,Sweden,26642034,59.6467921,17.93704433
+79,Washington International Thurgood Marshall Airport,BWI,Baltimore,United States,26369411,39.175361,-76.668333
+80,Antalya Airport,AYT,Antalya,Turkey,25931659,36.89994245,30.79819145
+81,London Stansted Airport,STN,London,United Kingdom,25904573,51.885,0.235
+82,Nanjing Lukou International Airport,NKG,Nanjing,China,25822936,31.7318395,118.872291
+83,Gimpo International Airport,GMP,Seoul,South Korea,25267408,37.55900775,126.7942403
+84,Kempegowda International Airport,BLR,Bangalore,India,25047272,13.1976048,77.70748564
+85,King Khaled International Airport,RUH,Riyadh,Saudi Arabia,25038000,24.9575,46.698056
+86,Brussels Airport,BRU,Brussels,Belgium,24783911,50.901389,4.484444
+87,Düsseldorf International Airport,DUS,Duesseldorf,Germany,24640564,51.28723045,6.762062531
+88,Xiamen Gaoqi International Airport,XMN,Xiamen,China,24485239,24.54383005,118.1326515
+89,Vienna International Airport,VIE,Vienna,Austria,24392805,48.110278,16.569722
+90,Zhengzhou Xinzheng International Airport,CGO,Zhengzhou,China,24299073,34.519672,113.841944
+91,Salt Lake City International Airport,SLC,Salt Lake City,United States,24198816,40.7900661,-111.9798985
+92,Vancouver International Airport,YVR,Vancouver,Canada,24166122,49.19283365,-123.1829087
+93,Ronald Reagan Washington National Airport,DCA,Washington,United States,23928248,38.852083,-77.037722
+94,Changsha Huanghua International Airport,CSX,Changcha,China,23764820,28.189158,113.220833
+95,Abu Dhabi International Airport,AUH,Abu Dhabi,United Arab Emirates,23760561,24.43189915,54.64197668
+96,Cancún International Airport,CUN,Cancun,Mexico,23601509,21.0406984,-86.88175904
+97,Fukuoka Airport,FUK,Fukuoka,Japan,23484678,33.586802,130.4473939
+98,Liuting Airport,TAO,Qingdao,China,23210530,36.26799135,120.3767926
+99,Brisbane International Airport,BNE,Brisbane,Australia,23205702,-27.4025817,153.1082235
+100,Wuhan Tianhe International Airport,WUH,Wuhan,China,23129400,30.77569525,114.217179
