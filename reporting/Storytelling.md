@@ -13,7 +13,7 @@ Comenzamos identificando los aeropuertos con mayor afluencia de pasajeros. Un gr
 ✅ Dubai se consolida como el centro estratégico del tráfico entre Europa, Asia y África.
 
 <img src="./visualizations/imgs/Top10_Aeropuertos.png" alt="Top 10 Aeropuertos" width="70%">
-<img src="https://github.com/nicoalderete/repositorio/raw/main/visualizations/imgs/Top10_Aeropuertos.png" alt="Top 10 Aeropuertos" width="70%">
+<img src="visualizations/imgs/Top10_Aeropuertos.png" alt="Top 10 Aeropuertos" width="70%">
 
 
 Luego, algo interesante que podemos notar es la clara desigualdad entre la mayoría de los aeropuertos(quienes manejan un tráfico considerablemente menor) con los gigantes del sector. Mientras los 10 aeropuertos más transitados concentran gran parte del flujo aéreo, existe un largo tail de aeropuertos con tráfico significativamente menor.
