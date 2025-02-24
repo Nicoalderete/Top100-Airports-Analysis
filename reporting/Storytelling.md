@@ -17,7 +17,7 @@ Comenzamos identificando los aeropuertos con mayor afluencia de pasajeros. Un gr
 
 Luego, algo interesante que podemos notar es la clara desigualdad entre la mayoría de los aeropuertos(quienes manejan un tráfico considerablemente menor) con los gigantes del sector. Mientras los 10 aeropuertos más transitados concentran gran parte del flujo aéreo, existe un largo tail de aeropuertos con tráfico significativamente menor.
 
-<img src="./imgs/Dist_Pasaj.png" alt="Distribución Pasajeros" width="70%">
+<img src="./imgs/Ditribucion_pasajeros.png" alt="Distribución Pasajeros" width="70%">
 
 
 De estos gigante del sector, encontramos que es Estados Unidos quién lidera el tráfico mundial, con más de 10 aeropuertos en el top 100 y un volumen de pasajeros que duplica al del segundo país en la lista.
