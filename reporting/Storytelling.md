@@ -17,26 +17,25 @@ Comenzamos identificando los aeropuertos con mayor afluencia de pasajeros. Un gr
 
 Luego, algo interesante que podemos notar es la clara desigualdad entre la mayoría de los aeropuertos(quienes manejan un tráfico considerablemente menor) con los gigantes del sector. Mientras los 10 aeropuertos más transitados concentran gran parte del flujo aéreo, existe un largo tail de aeropuertos con tráfico significativamente menor.
 
-<img src="./visualizations/imgs/Distribucion_pasajeros.png" alt="Distribución Pasajeros" width="70%">
+![Distribucion_pasajeros.png](/visualizations/imgs/Distribucion_pasajeros.png)
 
 
 De estos gigante del sector, encontramos que es Estados Unidos quién lidera el tráfico mundial, con más de 10 aeropuertos en el top 100 y un volumen de pasajeros que duplica al del segundo país en la lista.
 
-<img src="./imgs/Top10_paises_trafico.png" alt="Top 10 Países" width="70%">
+![Top10_paises_trafico.png](/visualizations/imgs/Top10_paises_trafico.png)
 
 
 Descubrimos además, que factores como la ubicación geográfica y la categoría del aeropuerto pueden influir en su volumen de tráfico.
 
-<img src="./imgs/Correlaciones.png" alt="Mapa de Calor" width="40%">
+![Correlaciones.png](/visualizations/imgs/Correlaciones.png)
 
 Para profundizar, aplicamos un clustering con K-Means, agrupando aeropuertos según similitudes en su tráfico y ubicación.
 
-<img src="./imgs/Clustering.png" alt="Clustering" width="40%">
-
+![Clustering.png](/visualizations/imgs/Clustering.png)
 
 Para cerrar nuestro análisis, utilizamos un mapa de calor interactivo que nos muestra la concentración de tráfico aéreo en el mundo. Como era de esperar, vemos un fuerte resplandor en América del Norte, Europa y Asia, mientras que regiones como África y América del Sur tienen una menor densidad de tráfico.
 
-<img src="./imgs/Mapa_calor.png" alt="Mapa de Calor" width="70%">
+![Mapa_calor.png](/visualizations/imgs/Mapa_calor.png)
 
 
 ## 📌 Conclusiones y Reflexión Final
