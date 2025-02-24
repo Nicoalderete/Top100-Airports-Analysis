@@ -150,10 +150,22 @@ def obtener_coordenadas(aeropuerto, pais):
         return location.latitude, location.longitude
     return None, None
 ```
-Los datos se guardaron en `clean_airports_with_coordinates.csv` y se usaron en un mapa interactivo con `folium`.
+
+---
+
+- Los datos se guardaron en `clean_airports_with_coordinates.csv` y se usaron en un mapa interactivo con `folium`.
+
+- Se creó una carpeta llamada `imgs` para almacenar las capturas de pantalla de las visualizaciones creadas para su posterior uso. 
+
+- Se generó ademas un archivo llamado `visualizations.md` con el objetivo de mostrar las visualizaciones generadas de manera ordenada y prolija, prescindiendo del script base. 
+
+- Se creó la carpeta contenedora `reporting` con el objetivo de almacenar el archivo final de reporte. 
+
+- Por ultimo, se creó el arhivo final `Storytelling.md` con el objetivo de reportar los insights logrados para las partes interesadas. 
 
 
 ---
+
 
 ## 📚 Estructura del Proyecto
 ```bash
@@ -162,14 +174,19 @@ Top-100-Airports-Analysis/
 │   ├── clean_airports_with_coordinates.csv  
 │   ├── clean_airports.csv  
 │   ├── Top_100_Airports.csv  
+│── reporting/
+│   ├── Storytelling.md
 │── notebooks/  
 │   ├── clean_data.py  
 │   ├── eda_airports.ipynb 
-│   ├── visualization_airports.ipynb  
 │── visualizations/  
+│   ├── imgs/
 │   ├── mapa_calor_aeropuertos.html 
+│   ├── visualization_airports.ipynb  
+│   ├── visualizations.md
 │── README.md  
 │── requirements.txt
+
 ```
 
 
