@@ -70,7 +70,7 @@ Visualización geográfica del tráfico aéreo a través de un mapa de calor.<br
 Se observa una alta concentración de tráfico en América del Norte, Europa y Asia, destacando hubs internacionales clave en el comercio global.
 
 <img src="./imgs/Mapa_calor.png" alt="Mapa de Calor" width="70%">
-<img src="./imgs/Mapa_calor1.png" alt="Mapa de Calor1" width="70%">
+<img src="./imgs/Mapa_Calor1.png" alt="Mapa de Calor1" width="70%">
 
 
 ## 9. Distribución de Pasajeros por Aeropuerto
