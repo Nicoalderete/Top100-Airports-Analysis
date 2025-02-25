@@ -105,7 +105,7 @@ Para profundizar, aplicamos un clustering con K-Means, agrupando aeropuertos seg
 
 Para cerrar nuestro análisis, utilizamos un mapa de calor interactivo que nos muestra la concentración de tráfico aéreo en el mundo. Como era de esperar, vemos un fuerte resplandor en América del Norte, Europa y Asia, mientras que regiones como África y América del Sur tienen una menor densidad de tráfico.
 
-![Mapa_calor.png](/visuakizations/imgs/Mapa_calor.png)
+![Mapa_calor.png](/visualizations/imgs/Mapa_calor.png)
 s
 
 ## Conclusiones y Reflexión Final
