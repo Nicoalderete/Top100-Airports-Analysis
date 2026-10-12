@@ -195,3 +195,7 @@ Top-100-Airports-Analysis/
 ## 🔗 Referencias
 - [Kaggle API: Documentación Oficial](https://www.kaggle.com/docs/api)
 - [Dataset: Top 100 Airports of the World](https://www.kaggle.com/datasets/batrosjamali/top-100-airports-of-the-world)
+
+## Reproducible pipeline and verified case study
+
+The project now includes a standard-library Python pipeline that validates the raw CSV and loads SQLite analytical views. See [pipeline instructions](pipeline/README.md) and the [verified case study](reporting/Case_Study.md). Run `python pipeline/run.py` from the repository root.
